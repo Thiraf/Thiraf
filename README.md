@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an active 5th semester student in the Device Engineering Technology Study Program
+I am an active 6th semester student in the Device Engineering Technology Study Program
 soft, Gadjah Mada University, with experience as an IT Project Manager for one year
 year. In that role, I successfully managed the development of a fulfilling website
 client expectations. Additionally, I have four months of experience as a Fullstack
