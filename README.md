@@ -1,16 +1,7 @@
 # 💫 About Me:
 💻 **[My Portfolio Website](https://anandahirzithirafi.vercel.app/)**  
 
-I am an active 6th semester student in the Device Engineering Technology Study Program
-soft, Gadjah Mada University, with experience as an IT Project Manager for one year
-year. In that role, I successfully managed the development of a fulfilling website
-client expectations. Additionally, I have four months of experience as a Fullstack
-Developer, contributes to data-based website design.
-I have a great interest in deepening my skills in the field of technology
-information, especially through internship experience. My competencies include
-leadership, public speaking skills, and high adaptability. I like
-challenges and work dynamics, which encourage me to continue to develop and provide
-best results in every project.
+Software Engineering Technology student at Universitas Gadjah Mada (UGM) with hands-on experience as an IT Project Manager and Full Stack Developer. I have contributed to multiple web-based application projects ranging from government and institutional systems to enterprise environments involving the full software development lifecycle from system analysis to deployment.My expertise spans managing project timelines, translating business requirements into robust technical solutions, and handling system integration. Technically proficient in C#, Laravel, React.js, PostgreSQL, and Docker, backed by strong fundamentals in system modeling (ERD, DFD) and UI/UX design.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/anandathirafi)
